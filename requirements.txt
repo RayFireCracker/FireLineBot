@@ -1,2 +1,2 @@
 python-telegram-bot==20.3
-ollama
+ollama==0.1.4
