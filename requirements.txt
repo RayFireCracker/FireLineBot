@@ -1,2 +1,4 @@
+# rebuild trigger
 python-telegram-bot==20.2
-git+https://github.com/jmorganca/ollama.git@v0.1.1#egg=ollama
+requests
+nest-asyncio==1.5.8
